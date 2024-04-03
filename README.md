@@ -1,2 +1,2 @@
-# My-test-Revo
+# My-test-Repo
 A simple repository
